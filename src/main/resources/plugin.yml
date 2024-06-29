@@ -1,0 +1,6 @@
+name: GeyserCompat
+version: '${version}'
+main: io.github.qingchenw.geysercompat.GeyserCompat
+depend: [Geyser-Spigot]
+softdepend: [ViaVersion]
+authors: [QingChenW]
